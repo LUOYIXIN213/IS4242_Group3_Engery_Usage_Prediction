@@ -18,7 +18,7 @@ In this project, we created our own dataset about energy consumption across stat
 
 ### Dependencies
 
-requests == 2.27.1
+requests == 2.27.1 /n
 
 pandas == 1.5.3
 
