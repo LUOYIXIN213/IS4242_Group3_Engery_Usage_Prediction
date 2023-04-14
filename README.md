@@ -4,7 +4,7 @@ This project is to build prediction models to accurately predict energy usage of
 
 ## Description
 
-In this project, we used web scraping and APIs to create our own dataset about energy consumption across states in the US with other relevant features such as transportation, weather, population and disaster. We experimented with different ML models including Linear Regression, Ridge Regression, Random Forest and Gradient Boosting to find the best one for our own dataset in predicting energy consumption. This intellegient system can help engery production companies to estimate energy demand more accurately and sole their problem of overproduction or underproduction.
+In this project, we used web scraping and APIs to create our own dataset about energy consumption of various states in the US with other relevant features such as transportation, weather, population and disaster. We experimented with different ML models including Linear Regression, Ridge Regression, Random Forest and Gradient Boosting to find the best one for our own dataset in predicting energy consumption. This intellegient system can help engery production companies to estimate energy demand more accurately and sole their problem of overproduction or underproduction.
 
 ## Table of Contents
 * API Sources
